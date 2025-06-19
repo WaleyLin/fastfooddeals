@@ -35,7 +35,7 @@ README.md       # Project documentation
 
 1. **Clone or download this repository**:
    ```bash
-   git clone https://github.com/yourusername/fast-food-deals.git
+   git clone https://github.com/WaleyLin/fast-food-deals.git
    ```
 
 2. **Open `index.html`** in any modern web browser.
@@ -61,11 +61,6 @@ That's it! No build steps or dependencies required.
 **Waley Lin**  
 Feel free to reach out or contribute!
 
----
-
-## 📸 Preview
-
-![Screenshot](https://ik.imagekit.io/yourware/prod/0c487bf5-e2bb-4833-9e3c-eda9eb3bdf74/screenshot_4f60.png)
 
 ---
 
